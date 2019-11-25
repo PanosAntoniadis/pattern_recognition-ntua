@@ -18,4 +18,4 @@
   | Bagging using SVM poly| __94.71%__ |
   | Neural Network - 2 hidden (128, 64) - tanh| 92.32% |
   
-- The main part of the 1st Lab that contains all the results is placed in [Lab1](./Lab1). A jupyter notebook, along with an html and a python export are available. 
+- The main part of the 1st Lab that contains all the results is placed in [Lab1](./Lab1). A [jupyter notebook](./Lab1/main_lab1.ipynb), along with an [html](./Lab1/main_lab1.html) and a [python](./Lab1/main_lab1.py) export are available. 
