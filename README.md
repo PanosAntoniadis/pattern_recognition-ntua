@@ -19,3 +19,11 @@
   | Neural Network - 2 hidden (128, 64) - tanh| 92.32% |
   
 - The main part of the 1st Lab that contains all the results is placed in [Lab1](./Lab1). A [jupyter notebook](./Lab1/main_lab1.ipynb), along with an [html](./Lab1/main_lab1.html) and a [python](./Lab1/main_lab1.py) export are available. 
+
+## __Lab 2:__ Speech Recognition using HMMs and RNNs
+
+
+
+
+## __Lab 3:__ Genre Classification and Emotion Extraction from music
+
