@@ -2,7 +2,7 @@
 
 - The scope of the 1st Lab is the implementation of an optical digit recognition system. The dataset comes from US Postal Service and contains digits from 0 to 9 separated in train and test set.
 
-- Some results:
+- Results:
 
   | Classifier | Accuracy |
   | --------- | -------- |
@@ -17,28 +17,28 @@
   | Bagging using SVM poly| __94.71%__ |
   | Neural Network - 2 hidden (128, 64) - tanh| 92.32% |
   
-- The main part of the 1st Lab that contains all the results is placed in [Lab1](./Lab1). A [jupyter notebook](./Lab1/main_lab1.ipynb), along with an [html](./Lab1/main_lab1.html) and a [python](./Lab1/main_lab1.py) export are available. 
+- The main part of the 1st Lab that contains all the results is placed in [Lab1](./Lab1). A [jupyter notebook](./Lab1/main_lab1.ipynb) and a [python](./Lab1/main_lab1.py) export are available. 
 
 ## __Lab 2:__ Speech Recognition using HMMs and RNNs
 
 -  The scope of the 2nd Lab is the implementation of a speech recognition system, that recognizes isolated digits. The dataset is the [Free Spoken Digit Dataset](https://github.com/Jakobovski/free-spoken-digit-dataset).
 
 - Models used
-  - GMM-HMMs with different number of states ano Gaussians
+  - GMM-HMMs with different number of states and Gaussians
   - LSTM
   - LSTM with Dropout and L2-Regularization
   - LSTM with Early Stoping
   - BiLSTM
   - BiLSTM with pack_padded_sequence
 
-
 - Best results:
 
   | Classifier | Accuracy |
   | --------- | -------- |
-  | Best GMM-HMM model | 96% |
-  | Best LSTM model | 94% |
+  | GMM-HMM with 4 states and 5 Gaussians| 96% |
+  | BiLSTM with pack_padded_sequence | 94% |
 
+- The main part of the 2nd Lab that contains all the results is placed in [Lab2](./Lab2). A [jupyter notebook](./Lab2/main_lab.ipynb) and a [python](./Lab2/main_lab.py) export are available. 
 
 ## __Lab 3:__ Genre Classification and Sentiment prediction from music
 
@@ -58,9 +58,11 @@
 
 - Models used:
   - LSTM 
-  - CNN
-  - Transfer Learning using the CNN of genre classification
+  - CNN with 4 layers (Conv - Batch - ReLU - Pool)
+  - Transfer Learning using the CNN of Genre Classification
   - CNN with Multitask Learning
+
+- The main part of the 3rd Lab that contains all the results is placed in [Lab3](./Lab3). A [jupyter notebook](./Lab3/patrec-lab.ipynb) and a [python](./Lab3/patrec-lab.py) export are available. 
 
 ## Technologies used: 
 - NumPy
