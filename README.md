@@ -1,4 +1,4 @@
-## __Lab 1:__ Optical digit recognition
+## Optical digit recognition
 
 - The scope of the 1st Lab is the implementation of an optical digit recognition system. The dataset comes from US Postal Service and contains digits from 0 to 9 separated in train and test set.
 
@@ -19,7 +19,7 @@
   
 - The main part of the 1st Lab that contains all the results is placed in [Lab1](./Lab1). A [jupyter notebook](./Lab1/main_lab1.ipynb) and a [python](./Lab1/main_lab1.py) export are available. 
 
-## __Lab 2:__ Speech Recognition using HMMs and RNNs
+## Speech Recognition using HMMs and RNNs
 
 -  The scope of the 2nd Lab is the implementation of a speech recognition system, that recognizes isolated digits. The dataset is the [Free Spoken Digit Dataset](https://github.com/Jakobovski/free-spoken-digit-dataset).
 
@@ -40,7 +40,7 @@
 
 - The main part of the 2nd Lab that contains all the results is placed in [Lab2](./Lab2). A [jupyter notebook](./Lab2/main_lab.ipynb) and a [python](./Lab2/main_lab.py) export are available. 
 
-## __Lab 3:__ Genre Classification and Sentiment prediction from music
+## Genre Classification and Sentiment prediction from music
 
 - The scope of the 3rd Lab is to recognize the genre and extract the emotions from spectrograms of music songs. Two datasets are used: Free Music Archive (FMA) and Multitask music dataset ([kaggle link](https://www.kaggle.com/geoparslp/patreco3-multitask-affective-music)).
 
